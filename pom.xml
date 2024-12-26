@@ -12,8 +12,8 @@
   </parent>
   <name>petclinic</name>
 
-  <!-- <properties>
-    <distributionManagement>
+  <properties>
+    <!-- <distributionManagement>
     <repository>
       <id>central</id>
       <name>maven-releases</name>
