@@ -2,7 +2,7 @@
 <settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.2.0 http://maven.apache.org/xsd/settings-1.2.0.xsd"
     xmlns="http://maven.apache.org/SETTINGS/1.2.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <servers>
+    <!-- <servers>
         <server>
             <username>admin</username>
             <password>cmVmdGtuOjAxOjE3NTI5NzQzNzQ6bjZSVzNJODdVVHJ2WDBVdFh2ZW5ma1pJOWxO</password>
@@ -13,8 +13,8 @@
             <password>cmVmdGtuOjAxOjE3NTI5NzQzNzQ6bjZSVzNJODdVVHJ2WDBVdFh2ZW5ma1pJOWxO</password>
             <id>snapshots</id>
         </server>
-    </servers>
-    <profiles>
+    </servers> -->
+    <!-- <profiles>
         <profile>
             <repositories>
                 <repository>
@@ -47,10 +47,10 @@
                     <name>libs-snapshot</name>
                     <url>http://jfrog.azureb44.xyz:8081/artifactory/libs-snapshot</url>
                 </pluginRepository>
-            </pluginRepositories>
-            <id>artifactory</id>
+            </pluginRepositories> -->
+            <!-- <id>artifactory</id>
         </profile>
-    </profiles>
+    </profiles> -->
     <activeProfiles>
         <activeProfile>artifactory</activeProfile>
     </activeProfiles>
